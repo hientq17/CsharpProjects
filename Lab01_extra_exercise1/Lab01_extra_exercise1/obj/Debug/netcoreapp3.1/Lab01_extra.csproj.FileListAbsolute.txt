@@ -1,0 +1,13 @@
+D:\Code\C#\Lab01_extra\Lab01_extra\obj\Debug\netcoreapp3.1\Lab01_extra.csprojAssemblyReference.cache
+D:\Code\C#\Lab01_extra\Lab01_extra\obj\Debug\netcoreapp3.1\Lab01_extra.AssemblyInfoInputs.cache
+D:\Code\C#\Lab01_extra\Lab01_extra\obj\Debug\netcoreapp3.1\Lab01_extra.AssemblyInfo.cs
+D:\Code\C#\Lab01_extra\Lab01_extra\obj\Debug\netcoreapp3.1\Lab01_extra.csproj.CoreCompileInputs.cache
+D:\Code\C#\Lab01_extra\Lab01_extra\bin\Debug\netcoreapp3.1\Lab01_extra.exe
+D:\Code\C#\Lab01_extra\Lab01_extra\bin\Debug\netcoreapp3.1\Lab01_extra.deps.json
+D:\Code\C#\Lab01_extra\Lab01_extra\bin\Debug\netcoreapp3.1\Lab01_extra.runtimeconfig.json
+D:\Code\C#\Lab01_extra\Lab01_extra\bin\Debug\netcoreapp3.1\Lab01_extra.runtimeconfig.dev.json
+D:\Code\C#\Lab01_extra\Lab01_extra\bin\Debug\netcoreapp3.1\Lab01_extra.dll
+D:\Code\C#\Lab01_extra\Lab01_extra\bin\Debug\netcoreapp3.1\Lab01_extra.pdb
+D:\Code\C#\Lab01_extra\Lab01_extra\obj\Debug\netcoreapp3.1\Lab01_extra.dll
+D:\Code\C#\Lab01_extra\Lab01_extra\obj\Debug\netcoreapp3.1\Lab01_extra.pdb
+D:\Code\C#\Lab01_extra\Lab01_extra\obj\Debug\netcoreapp3.1\Lab01_extra.genruntimeconfig.cache

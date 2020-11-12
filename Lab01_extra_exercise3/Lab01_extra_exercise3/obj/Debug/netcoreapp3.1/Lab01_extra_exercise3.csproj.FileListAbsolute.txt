@@ -1,0 +1,13 @@
+C:\Users\nhoch\source\repos\Lab01_extra_exercise3\Lab01_extra_exercise3\bin\Debug\netcoreapp3.1\Lab01_extra_exercise3.exe
+C:\Users\nhoch\source\repos\Lab01_extra_exercise3\Lab01_extra_exercise3\bin\Debug\netcoreapp3.1\Lab01_extra_exercise3.deps.json
+C:\Users\nhoch\source\repos\Lab01_extra_exercise3\Lab01_extra_exercise3\bin\Debug\netcoreapp3.1\Lab01_extra_exercise3.runtimeconfig.json
+C:\Users\nhoch\source\repos\Lab01_extra_exercise3\Lab01_extra_exercise3\bin\Debug\netcoreapp3.1\Lab01_extra_exercise3.runtimeconfig.dev.json
+C:\Users\nhoch\source\repos\Lab01_extra_exercise3\Lab01_extra_exercise3\bin\Debug\netcoreapp3.1\Lab01_extra_exercise3.dll
+C:\Users\nhoch\source\repos\Lab01_extra_exercise3\Lab01_extra_exercise3\bin\Debug\netcoreapp3.1\Lab01_extra_exercise3.pdb
+C:\Users\nhoch\source\repos\Lab01_extra_exercise3\Lab01_extra_exercise3\obj\Debug\netcoreapp3.1\Lab01_extra_exercise3.csprojAssemblyReference.cache
+C:\Users\nhoch\source\repos\Lab01_extra_exercise3\Lab01_extra_exercise3\obj\Debug\netcoreapp3.1\Lab01_extra_exercise3.AssemblyInfoInputs.cache
+C:\Users\nhoch\source\repos\Lab01_extra_exercise3\Lab01_extra_exercise3\obj\Debug\netcoreapp3.1\Lab01_extra_exercise3.AssemblyInfo.cs
+C:\Users\nhoch\source\repos\Lab01_extra_exercise3\Lab01_extra_exercise3\obj\Debug\netcoreapp3.1\Lab01_extra_exercise3.csproj.CoreCompileInputs.cache
+C:\Users\nhoch\source\repos\Lab01_extra_exercise3\Lab01_extra_exercise3\obj\Debug\netcoreapp3.1\Lab01_extra_exercise3.dll
+C:\Users\nhoch\source\repos\Lab01_extra_exercise3\Lab01_extra_exercise3\obj\Debug\netcoreapp3.1\Lab01_extra_exercise3.pdb
+C:\Users\nhoch\source\repos\Lab01_extra_exercise3\Lab01_extra_exercise3\obj\Debug\netcoreapp3.1\Lab01_extra_exercise3.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+1|Hien|Quang|1200
+2|Giang|Nguyen|1995.1
+3|Long|Huynh|1115.9
+4|Go|Nguyen|1190.5
+5|Son|Le|1110

@@ -1,0 +1,10 @@
+D:\Code\C#\WindowFormDemo\WindowFormDemo\obj\Debug\WindowFormDemo.csprojAssemblyReference.cache
+D:\Code\C#\WindowFormDemo\WindowFormDemo\obj\Debug\WindowFormDemo.Form1.resources
+D:\Code\C#\WindowFormDemo\WindowFormDemo\obj\Debug\WindowFormDemo.Properties.Resources.resources
+D:\Code\C#\WindowFormDemo\WindowFormDemo\obj\Debug\WindowFormDemo.csproj.GenerateResource.cache
+D:\Code\C#\WindowFormDemo\WindowFormDemo\obj\Debug\WindowFormDemo.csproj.CoreCompileInputs.cache
+D:\Code\C#\WindowFormDemo\WindowFormDemo\bin\Debug\WindowFormDemo.exe.config
+D:\Code\C#\WindowFormDemo\WindowFormDemo\bin\Debug\WindowFormDemo.exe
+D:\Code\C#\WindowFormDemo\WindowFormDemo\bin\Debug\WindowFormDemo.pdb
+D:\Code\C#\WindowFormDemo\WindowFormDemo\obj\Debug\WindowFormDemo.exe
+D:\Code\C#\WindowFormDemo\WindowFormDemo\obj\Debug\WindowFormDemo.pdb

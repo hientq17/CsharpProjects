@@ -1,0 +1,13 @@
+D:\Code\C#\ListCollection\ListCollection\obj\Debug\netcoreapp3.1\ListCollection.csprojAssemblyReference.cache
+D:\Code\C#\ListCollection\ListCollection\obj\Debug\netcoreapp3.1\ListCollection.AssemblyInfoInputs.cache
+D:\Code\C#\ListCollection\ListCollection\obj\Debug\netcoreapp3.1\ListCollection.AssemblyInfo.cs
+D:\Code\C#\ListCollection\ListCollection\obj\Debug\netcoreapp3.1\ListCollection.csproj.CoreCompileInputs.cache
+D:\Code\C#\ListCollection\ListCollection\bin\Debug\netcoreapp3.1\ListCollection.exe
+D:\Code\C#\ListCollection\ListCollection\bin\Debug\netcoreapp3.1\ListCollection.deps.json
+D:\Code\C#\ListCollection\ListCollection\bin\Debug\netcoreapp3.1\ListCollection.runtimeconfig.json
+D:\Code\C#\ListCollection\ListCollection\bin\Debug\netcoreapp3.1\ListCollection.runtimeconfig.dev.json
+D:\Code\C#\ListCollection\ListCollection\bin\Debug\netcoreapp3.1\ListCollection.dll
+D:\Code\C#\ListCollection\ListCollection\bin\Debug\netcoreapp3.1\ListCollection.pdb
+D:\Code\C#\ListCollection\ListCollection\obj\Debug\netcoreapp3.1\ListCollection.dll
+D:\Code\C#\ListCollection\ListCollection\obj\Debug\netcoreapp3.1\ListCollection.pdb
+D:\Code\C#\ListCollection\ListCollection\obj\Debug\netcoreapp3.1\ListCollection.genruntimeconfig.cache

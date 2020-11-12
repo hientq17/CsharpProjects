@@ -1,0 +1,16 @@
+D:\Code\C#\MyBookLibrary\MyBookConsole\obj\Debug\netcoreapp3.1\MyBookConsole.csprojAssemblyReference.cache
+D:\Code\C#\MyBookLibrary\MyBookConsole\obj\Debug\netcoreapp3.1\MyBookConsole.AssemblyInfoInputs.cache
+D:\Code\C#\MyBookLibrary\MyBookConsole\obj\Debug\netcoreapp3.1\MyBookConsole.AssemblyInfo.cs
+D:\Code\C#\MyBookLibrary\MyBookConsole\obj\Debug\netcoreapp3.1\MyBookConsole.csproj.CoreCompileInputs.cache
+D:\Code\C#\MyBookLibrary\MyBookConsole\bin\Debug\netcoreapp3.1\MyBookConsole.exe
+D:\Code\C#\MyBookLibrary\MyBookConsole\bin\Debug\netcoreapp3.1\MyBookConsole.deps.json
+D:\Code\C#\MyBookLibrary\MyBookConsole\bin\Debug\netcoreapp3.1\MyBookConsole.runtimeconfig.json
+D:\Code\C#\MyBookLibrary\MyBookConsole\bin\Debug\netcoreapp3.1\MyBookConsole.runtimeconfig.dev.json
+D:\Code\C#\MyBookLibrary\MyBookConsole\bin\Debug\netcoreapp3.1\MyBookConsole.dll
+D:\Code\C#\MyBookLibrary\MyBookConsole\bin\Debug\netcoreapp3.1\MyBookConsole.pdb
+D:\Code\C#\MyBookLibrary\MyBookConsole\bin\Debug\netcoreapp3.1\MyBookLibrary.dll
+D:\Code\C#\MyBookLibrary\MyBookConsole\bin\Debug\netcoreapp3.1\MyBookLibrary.pdb
+D:\Code\C#\MyBookLibrary\MyBookConsole\obj\Debug\netcoreapp3.1\MyBookConsole.csproj.CopyComplete
+D:\Code\C#\MyBookLibrary\MyBookConsole\obj\Debug\netcoreapp3.1\MyBookConsole.dll
+D:\Code\C#\MyBookLibrary\MyBookConsole\obj\Debug\netcoreapp3.1\MyBookConsole.pdb
+D:\Code\C#\MyBookLibrary\MyBookConsole\obj\Debug\netcoreapp3.1\MyBookConsole.genruntimeconfig.cache

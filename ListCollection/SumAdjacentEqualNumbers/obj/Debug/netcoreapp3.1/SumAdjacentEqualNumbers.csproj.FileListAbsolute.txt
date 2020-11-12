@@ -1,0 +1,12 @@
+D:\Code\C#\ListCollection\SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\SumAdjacentEqualNumbers.exe
+D:\Code\C#\ListCollection\SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\SumAdjacentEqualNumbers.deps.json
+D:\Code\C#\ListCollection\SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\SumAdjacentEqualNumbers.runtimeconfig.json
+D:\Code\C#\ListCollection\SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\SumAdjacentEqualNumbers.runtimeconfig.dev.json
+D:\Code\C#\ListCollection\SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\SumAdjacentEqualNumbers.dll
+D:\Code\C#\ListCollection\SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\SumAdjacentEqualNumbers.pdb
+D:\Code\C#\ListCollection\SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+D:\Code\C#\ListCollection\SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\SumAdjacentEqualNumbers.AssemblyInfo.cs
+D:\Code\C#\ListCollection\SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+D:\Code\C#\ListCollection\SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\SumAdjacentEqualNumbers.dll
+D:\Code\C#\ListCollection\SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\SumAdjacentEqualNumbers.pdb
+D:\Code\C#\ListCollection\SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\SumAdjacentEqualNumbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Code\C#\ListCollection\ListCollection\bin\Debug\netcoreapp3.1\SummAllNumbers.exe
+D:\Code\C#\ListCollection\ListCollection\bin\Debug\netcoreapp3.1\SummAllNumbers.deps.json
+D:\Code\C#\ListCollection\ListCollection\bin\Debug\netcoreapp3.1\SummAllNumbers.runtimeconfig.json
+D:\Code\C#\ListCollection\ListCollection\bin\Debug\netcoreapp3.1\SummAllNumbers.runtimeconfig.dev.json
+D:\Code\C#\ListCollection\ListCollection\bin\Debug\netcoreapp3.1\SummAllNumbers.dll
+D:\Code\C#\ListCollection\ListCollection\bin\Debug\netcoreapp3.1\SummAllNumbers.pdb
+D:\Code\C#\ListCollection\ListCollection\obj\Debug\netcoreapp3.1\SummAllNumbers.csprojAssemblyReference.cache
+D:\Code\C#\ListCollection\ListCollection\obj\Debug\netcoreapp3.1\SummAllNumbers.AssemblyInfoInputs.cache
+D:\Code\C#\ListCollection\ListCollection\obj\Debug\netcoreapp3.1\SummAllNumbers.AssemblyInfo.cs
+D:\Code\C#\ListCollection\ListCollection\obj\Debug\netcoreapp3.1\SummAllNumbers.csproj.CoreCompileInputs.cache
+D:\Code\C#\ListCollection\ListCollection\obj\Debug\netcoreapp3.1\SummAllNumbers.dll
+D:\Code\C#\ListCollection\ListCollection\obj\Debug\netcoreapp3.1\SummAllNumbers.pdb
+D:\Code\C#\ListCollection\ListCollection\obj\Debug\netcoreapp3.1\SummAllNumbers.genruntimeconfig.cache

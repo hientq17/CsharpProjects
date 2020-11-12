@@ -1,0 +1,12 @@
+D:\Code\C#\Lab01-Exercise2\Lab01-Exercise2\obj\Debug\netcoreapp3.1\Lab01-Exercise2.AssemblyInfoInputs.cache
+D:\Code\C#\Lab01-Exercise2\Lab01-Exercise2\obj\Debug\netcoreapp3.1\Lab01-Exercise2.AssemblyInfo.cs
+D:\Code\C#\Lab01-Exercise2\Lab01-Exercise2\obj\Debug\netcoreapp3.1\Lab01-Exercise2.csproj.CoreCompileInputs.cache
+D:\Code\C#\Lab01-Exercise2\Lab01-Exercise2\bin\Debug\netcoreapp3.1\Lab01-Exercise2.exe
+D:\Code\C#\Lab01-Exercise2\Lab01-Exercise2\bin\Debug\netcoreapp3.1\Lab01-Exercise2.deps.json
+D:\Code\C#\Lab01-Exercise2\Lab01-Exercise2\bin\Debug\netcoreapp3.1\Lab01-Exercise2.runtimeconfig.json
+D:\Code\C#\Lab01-Exercise2\Lab01-Exercise2\bin\Debug\netcoreapp3.1\Lab01-Exercise2.runtimeconfig.dev.json
+D:\Code\C#\Lab01-Exercise2\Lab01-Exercise2\bin\Debug\netcoreapp3.1\Lab01-Exercise2.dll
+D:\Code\C#\Lab01-Exercise2\Lab01-Exercise2\bin\Debug\netcoreapp3.1\Lab01-Exercise2.pdb
+D:\Code\C#\Lab01-Exercise2\Lab01-Exercise2\obj\Debug\netcoreapp3.1\Lab01-Exercise2.dll
+D:\Code\C#\Lab01-Exercise2\Lab01-Exercise2\obj\Debug\netcoreapp3.1\Lab01-Exercise2.pdb
+D:\Code\C#\Lab01-Exercise2\Lab01-Exercise2\obj\Debug\netcoreapp3.1\Lab01-Exercise2.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+D:\Code\C#\Lab05_extra\Lab05_extra\bin\Debug\Lab05_extra.exe.config
+D:\Code\C#\Lab05_extra\Lab05_extra\bin\Debug\Lab05_extra.exe
+D:\Code\C#\Lab05_extra\Lab05_extra\bin\Debug\Lab05_extra.pdb
+D:\Code\C#\Lab05_extra\Lab05_extra\obj\Debug\Lab05_extra.csprojAssemblyReference.cache
+D:\Code\C#\Lab05_extra\Lab05_extra\obj\Debug\Lab05_extra.Properties.Resources.resources
+D:\Code\C#\Lab05_extra\Lab05_extra\obj\Debug\Lab05_extra.csproj.GenerateResource.cache
+D:\Code\C#\Lab05_extra\Lab05_extra\obj\Debug\Lab05_extra.csproj.CoreCompileInputs.cache
+D:\Code\C#\Lab05_extra\Lab05_extra\obj\Debug\Lab05_extra.exe
+D:\Code\C#\Lab05_extra\Lab05_extra\obj\Debug\Lab05_extra.pdb
+D:\Code\C#\Lab05_extra\Lab05_extra\obj\Debug\Lab05_extra.frmOrder.resources
+D:\Code\C#\Lab05_extra\Lab05_extra\obj\Debug\Lab05_extra.frmNhanVien.resources

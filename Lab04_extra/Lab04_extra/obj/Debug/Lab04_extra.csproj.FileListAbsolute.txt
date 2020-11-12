@@ -1,0 +1,10 @@
+D:\Code\C#\Lab04_extra\Lab04_extra\bin\Debug\Lab04_extra.exe.config
+D:\Code\C#\Lab04_extra\Lab04_extra\bin\Debug\Lab04_extra.exe
+D:\Code\C#\Lab04_extra\Lab04_extra\bin\Debug\Lab04_extra.pdb
+D:\Code\C#\Lab04_extra\Lab04_extra\obj\Debug\Lab04_extra.csprojAssemblyReference.cache
+D:\Code\C#\Lab04_extra\Lab04_extra\obj\Debug\Lab04_extra.DentalPaymentApp.resources
+D:\Code\C#\Lab04_extra\Lab04_extra\obj\Debug\Lab04_extra.Properties.Resources.resources
+D:\Code\C#\Lab04_extra\Lab04_extra\obj\Debug\Lab04_extra.csproj.GenerateResource.cache
+D:\Code\C#\Lab04_extra\Lab04_extra\obj\Debug\Lab04_extra.csproj.CoreCompileInputs.cache
+D:\Code\C#\Lab04_extra\Lab04_extra\obj\Debug\Lab04_extra.exe
+D:\Code\C#\Lab04_extra\Lab04_extra\obj\Debug\Lab04_extra.pdb

@@ -1,0 +1,13 @@
+D:\Code\C#\ListCollection\ListSort\bin\Debug\netcoreapp3.1\ListSort.exe
+D:\Code\C#\ListCollection\ListSort\bin\Debug\netcoreapp3.1\ListSort.deps.json
+D:\Code\C#\ListCollection\ListSort\bin\Debug\netcoreapp3.1\ListSort.runtimeconfig.json
+D:\Code\C#\ListCollection\ListSort\bin\Debug\netcoreapp3.1\ListSort.runtimeconfig.dev.json
+D:\Code\C#\ListCollection\ListSort\bin\Debug\netcoreapp3.1\ListSort.dll
+D:\Code\C#\ListCollection\ListSort\bin\Debug\netcoreapp3.1\ListSort.pdb
+D:\Code\C#\ListCollection\ListSort\obj\Debug\netcoreapp3.1\ListSort.csprojAssemblyReference.cache
+D:\Code\C#\ListCollection\ListSort\obj\Debug\netcoreapp3.1\ListSort.AssemblyInfoInputs.cache
+D:\Code\C#\ListCollection\ListSort\obj\Debug\netcoreapp3.1\ListSort.AssemblyInfo.cs
+D:\Code\C#\ListCollection\ListSort\obj\Debug\netcoreapp3.1\ListSort.csproj.CoreCompileInputs.cache
+D:\Code\C#\ListCollection\ListSort\obj\Debug\netcoreapp3.1\ListSort.dll
+D:\Code\C#\ListCollection\ListSort\obj\Debug\netcoreapp3.1\ListSort.pdb
+D:\Code\C#\ListCollection\ListSort\obj\Debug\netcoreapp3.1\ListSort.genruntimeconfig.cache

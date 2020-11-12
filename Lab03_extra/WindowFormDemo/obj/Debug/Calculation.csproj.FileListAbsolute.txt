@@ -1,0 +1,12 @@
+D:\Code\C#\WindowFormDemo\WindowFormDemo\obj\Debug\Calculation.csprojAssemblyReference.cache
+D:\Code\C#\WindowFormDemo\WindowFormDemo\obj\Debug\WindowFormDemo.Properties.Resources.resources
+D:\Code\C#\WindowFormDemo\WindowFormDemo\obj\Debug\Calculation.csproj.GenerateResource.cache
+D:\Code\C#\WindowFormDemo\WindowFormDemo\obj\Debug\Calculation.csproj.CoreCompileInputs.cache
+D:\Code\C#\WindowFormDemo\WindowFormDemo\obj\Debug\WindowFormDemo.exe
+D:\Code\C#\WindowFormDemo\WindowFormDemo\obj\Debug\WindowFormDemo.pdb
+D:\Code\C#\WindowFormDemo\WindowFormDemo\bin\Debug\WindowFormDemo.exe.config
+D:\Code\C#\WindowFormDemo\WindowFormDemo\bin\Debug\WindowFormDemo.exe
+D:\Code\C#\WindowFormDemo\WindowFormDemo\bin\Debug\WindowFormDemo.pdb
+D:\Code\C#\WindowFormDemo\WindowFormDemo\obj\Debug\Calculation.frmPhepTinh.resources
+D:\Code\C#\WindowFormDemo\WindowFormDemo\obj\Debug\WindowFormDemo.frmUocBoi.resources
+D:\Code\C#\WindowFormDemo\WindowFormDemo\obj\Debug\WindowFormDemo.frmSecurity.resources

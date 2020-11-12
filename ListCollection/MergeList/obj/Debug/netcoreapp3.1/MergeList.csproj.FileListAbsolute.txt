@@ -1,0 +1,13 @@
+D:\Code\C#\ListCollection\MergeList\bin\Debug\netcoreapp3.1\MergeList.exe
+D:\Code\C#\ListCollection\MergeList\bin\Debug\netcoreapp3.1\MergeList.deps.json
+D:\Code\C#\ListCollection\MergeList\bin\Debug\netcoreapp3.1\MergeList.runtimeconfig.json
+D:\Code\C#\ListCollection\MergeList\bin\Debug\netcoreapp3.1\MergeList.runtimeconfig.dev.json
+D:\Code\C#\ListCollection\MergeList\bin\Debug\netcoreapp3.1\MergeList.dll
+D:\Code\C#\ListCollection\MergeList\bin\Debug\netcoreapp3.1\MergeList.pdb
+D:\Code\C#\ListCollection\MergeList\obj\Debug\netcoreapp3.1\MergeList.csprojAssemblyReference.cache
+D:\Code\C#\ListCollection\MergeList\obj\Debug\netcoreapp3.1\MergeList.AssemblyInfoInputs.cache
+D:\Code\C#\ListCollection\MergeList\obj\Debug\netcoreapp3.1\MergeList.AssemblyInfo.cs
+D:\Code\C#\ListCollection\MergeList\obj\Debug\netcoreapp3.1\MergeList.csproj.CoreCompileInputs.cache
+D:\Code\C#\ListCollection\MergeList\obj\Debug\netcoreapp3.1\MergeList.dll
+D:\Code\C#\ListCollection\MergeList\obj\Debug\netcoreapp3.1\MergeList.pdb
+D:\Code\C#\ListCollection\MergeList\obj\Debug\netcoreapp3.1\MergeList.genruntimeconfig.cache
