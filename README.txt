@@ -1,1 +1,1 @@
-C# Projects
+Student Management (Final project C#)

@@ -15,7 +15,7 @@ namespace StudentManagement {
         // MySQL Cpanel 
         private MySqlConnection conn;
         private string server = "103.97.125.254";
-        private string database = "mrendzpc_StudentManagement";
+        private string database = "mrendzpc_CoffeeManagement";
         private string uid = "mrendzpc_mrend";
         private string password = "Hien1712";
 

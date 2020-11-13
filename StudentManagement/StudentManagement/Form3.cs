@@ -8,7 +8,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using MySql.Data.MySqlClient;
-using StudenManagement;
 
 namespace StudentManagement {
     public partial class Form3 : Form {
